@@ -1,7 +1,5 @@
-##This is secondary heading
-###This is a tertiary heading
+# courseraDataScience
 
-*first item in list
-*second item in list
-*third item in list
-*fourth item in list
+##This is Secondary Heading
+
+### This is Tertiary Heading
